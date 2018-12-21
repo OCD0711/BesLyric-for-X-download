@@ -6,5 +6,5 @@
 
 Windows 版本下载：[这里](https://github.com/BensonLaur/Beslyric-for-X/releases)
 
-Mac/Ubuntu 版本:[这里](https://github.com/BensonLaur/BesLyric-for-X-download/releases)
+Mac/Ubuntu 版本：[这里](https://github.com/BensonLaur/BesLyric-for-X-download/releases)
 
